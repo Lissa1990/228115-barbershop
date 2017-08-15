@@ -1,0 +1,23 @@
+body {
+	font-size: 14px;
+	line-height: 24px;
+	color: #000000;
+	font-weight: bold;
+	font-family: "PTSans";
+}
+
+.title {
+	font-size: 30px;
+	line-height: 42px;
+	color: #000000;
+	font-weight: bold;
+	font-family: "PTSans";
+}
+.caption {
+	font-size: 30px;
+	line-height: 42px;
+	color: #f7f4f1;
+	font-weight: bold;
+	font-family: "PTSans";
+}
+
